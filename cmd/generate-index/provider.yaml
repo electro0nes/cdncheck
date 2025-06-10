@@ -136,6 +136,7 @@ common:
       - akamaitechnologies.com
       - akamaihd.net
       - edgesuite.net
+      - akamai.net
     cloudflare:
       - cloudflare.com
     fastly:
